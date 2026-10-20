@@ -1,3 +1,5 @@
 <?php
 
-uses(JeffersonGoncalves\Filament\Skeleton\Tests\TestCase::class)->in('Feature');
+use JeffersonGoncalves\Filament\Skeleton\Tests\TestCase;
+
+uses(TestCase::class)->in('Feature');
