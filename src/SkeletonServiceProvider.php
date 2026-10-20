@@ -11,8 +11,6 @@ class SkeletonServiceProvider extends PackageServiceProvider
     {
         $package
             ->name('filament-skeleton')
-            ->hasConfigFile()
-            ->hasViews()
-            ->hasMigrations();
+            ->hasViews();
     }
 }
