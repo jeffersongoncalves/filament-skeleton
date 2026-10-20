@@ -1,10 +1,18 @@
 <div class="filament-hidden">
 
-<!-- banner: art/jeffersongoncalves-filament-skeleton.png (generate via portfolio-banner skill) -->
+![Filament Skeleton](https://raw.githubusercontent.com/jeffersongoncalves/filament-skeleton/3.x/art/jeffersongoncalves-filament-skeleton.png)
 
 </div>
 
 # Filament Skeleton
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersongoncalves)
+
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/jeffersongoncalves/filament-skeleton.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/filament-skeleton)
+[![PHP Version](https://img.shields.io/packagist/dependency-v/jeffersongoncalves/filament-skeleton/php.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/filament-skeleton)
+[![Tests](https://img.shields.io/github/actions/workflow/status/jeffersongoncalves/filament-skeleton/tests.yml?branch=3.x&label=tests&style=flat-square)](https://github.com/jeffersongoncalves/filament-skeleton/actions?query=workflow%3ATests+branch%3A3.x)
+[![Total Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-skeleton.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/filament-skeleton)
+[![License](https://img.shields.io/packagist/l/jeffersongoncalves/filament-skeleton.svg?style=flat-square)](LICENSE.md)
 
 Automatic [Flux](https://fluxui.dev/components/skeleton)-style skeleton loading states for Filament infolists, plus `skeleton`, `skeleton.line` and `skeleton.group` Blade components.
 
